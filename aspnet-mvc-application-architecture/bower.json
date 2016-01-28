@@ -1,0 +1,9 @@
+{
+    "name": "Karamem0.Samples",
+    "private": true,
+    "dependencies": {
+        "bootstrap": "3.3.7",
+        "bootstrap-datepicker": "1.8.0",
+        "jquery": "3.3.1"
+    }
+}
